@@ -1,0 +1,26 @@
+body {
+    background-image: url("./assets/img/background.png");
+}
+
+#main {
+    color: white;
+    margin: 3%;
+}
+
+.card{
+    margin: 2%;
+    background-color: #2f2e2e;
+}
+
+.card-body{
+    background-color: #534646 ;
+    color: white;
+}
+
+#products{
+    align-self: center;
+}
+
+#navbar{
+    background-image: url("./assets/img/whiteBackground.png");
+}
