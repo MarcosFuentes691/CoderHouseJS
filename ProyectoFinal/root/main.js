@@ -153,8 +153,7 @@ function addCart(prodName, price, imageSrc) {
 
     Toastify({
         text: `Se añadió al carrito el producto ${prodName}`,
-        duration: 3000,
-        position: toast.POSITION.BOTTOM_RIGHT
+        duration: 3000
     }).showToast();
 
 
