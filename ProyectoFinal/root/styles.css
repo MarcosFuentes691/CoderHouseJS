@@ -64,10 +64,10 @@ body {
   }
 
   .cart-modal-overlay.open {
-    transform: translateY(40%);
+    transform: translateY(50%);
   }
   .cart-modal {
-    height: 100vh;
+    height: 30dvh;
     width: 50%;
     background-image: url("./assets/img/greyBackground.png");
     border-style: solid;
